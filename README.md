@@ -53,46 +53,6 @@ goal:
   scalable, intelligent, and impactful digital products.
 ```
 
----
-
-# 💻 Tech Stack
-
-### 🌐 Front-End
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,bootstrap"/>
-</p>
-
-### ⚙️ Back-End
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,laravel,php,python,django"/>
-</p>
-
-### 🗄️ Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb"/>
-</p>
-
-### 🤖 AI • Machine Learning
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch"/>
-</p>
-
-### 🛠 Tools
-
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=vscode,figma" />
-
-<img src="https://cdn.simpleicons.org/diagramsdotnet/F08705" width="48" height="48" alt="draw.io"/>
-
-</p>
-
----
-
 # 🔥 GitHub Streak
 
 <p align="center">
