@@ -1,81 +1,93 @@
-## Hi there 👋
-
-<!--# 👋 Halo, Saya <Muhammad Alfaizan>
+# <h1 align="center">Hi👋, I'm Muhammad Alfaizan</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=600&lines=Full+Stack+Developer;Backend+Developer;Open+Source+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1200&color=00C4FF&center=true&vCenter=true&width=900&lines=Software+Engineer+in+Progress;Web+Developer;Front-End+Developer;Machine+Learning+Enthusiast;Data+Analytics+Learner;System+Design+Explorer;Always+Learning+New+Things" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/<username>">
-    <img src="https://img.shields.io/github/followers/<username>?style=for-the-badge&logo=github">
+  <a href="https://github.com/MuhammadAlfaizan">
+    <img src="https://img.shields.io/github/followers/MuhammadAlfaizan?style=for-the-badge&logo=github&label=Followers"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=<username>&style=for-the-badge&color=blue">
-  <img src="https://img.shields.io/badge/Open%20Source-Love-red?style=for-the-badge">
+
+  <img src="https://komarev.com/ghpvc/?username=MuhammadAlfaizan&style=for-the-badge&color=0891b2"/>
+
+  <img src="https://img.shields.io/badge/Open%20Source-Love-red?style=for-the-badge"/>
+
+  <img src="https://img.shields.io/badge/Learning-Everyday-blue?style=for-the-badge"/>
 </p>
 
 ---
 
-# 🚀 Tentang Saya
+## 🚀 About Me
 
-Saya adalah seorang developer yang memiliki ketertarikan pada pengembangan aplikasi modern, backend, cloud computing, dan open source.
+```yaml
+name: Muhammad Alfaizan
 
-Saat ini saya fokus pada:
+location: Indonesia 🇮🇩
 
-* 🔭 Membangun aplikasi Full Stack
-* 🌱 Belajar Machine Learning Dan Data Science
-* ⚡ Mengembangkan project open source
-* 📚 Selalu mempelajari teknologi baru
+current_focus:
+  - 🌐 Web Development
+  - 🎨 Front-End Development
+  - 🏛️ System Design
+  - 🗄️ Database Engineering
+  - 🤖 Machine Learning
+  - 🧠 Deep Learning
+  - 📊 Data Analytics
+
+currently_learning:
+  - Cloud Computing
+  - MLOps
+  - Distributed Systems
+  - Large Language Models (LLMs)
+  - Data Engineering
+
+interests:
+  - Building Modern Web Applications
+  - Designing Scalable Systems
+  - Developing AI-Powered Solutions
+  - Data Visualization
+  - Open Source Contribution
+
+goal:
+  Become a Software Engineer and AI Engineer capable of building
+  scalable, intelligent, and impactful digital products.
+```
 
 ---
 
 # 💻 Tech Stack
 
-### Languages
+### 🌐 Front-End
 
 <p>
-<img src="https://skillicons.dev/icons?i=js,ts,go,python,php,java,c,cpp" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,bootstrap"/>
 </p>
 
-### Frontend
+### ⚙️ Back-End
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,react,nextjs,vue,vite" />
+<img src="https://skillicons.dev/icons?i=nodejs,laravel,php,python,django"/>
 </p>
 
-### Backend
+### 🗄️ Database
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,laravel,spring,django,fastapi" />
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb"/>
 </p>
 
-### Database
+### 🤖 AI • Machine Learning
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,firebase,supabase" />
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch"/>
 </p>
 
-### DevOps & Cloud
+### 🛠 Tools
 
-<p>
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,nginx,aws,gcp,vercel,netlify" />
-</p>
+<p align="left">
 
-### Tools
+<img src="https://skillicons.dev/icons?i=vscode,figma" />
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,idea" />
-</p>
-
----
-
-# 📊 GitHub Statistics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=<username>&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=<username>&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://cdn.simpleicons.org/diagramsdotnet/F08705" width="48" height="48" alt="draw.io"/>
 
 </p>
 
@@ -85,98 +97,124 @@ Saat ini saya fokus pada:
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=<username>&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=MuhammadAlfaizan&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-# 📈 Activity Graph
+# 📊 Contribution Graph
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=<username>&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MuhammadAlfaizan&theme=tokyo-night&hide_border=true"/>
 
 </p>
 
 ---
 
-# 🏆 GitHub Trophy
+
+# ⚡ Coding Activity
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=<username>&theme=tokyonight&no-frame=true&row=2&column=4"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MuhammadAlfaizan&theme=tokyonight"/>
 
 </p>
 
 ---
 
-# 🌟 Featured Projects
+# 🚀 Featured Projects
 
-| Project          | Description               | Tech           |
-| ---------------- | ------------------------- | -------------- |
-| 🚀 Project One   | Deskripsi singkat project | React, Node.js |
-| 📱 Project Two   | Deskripsi singkat project | Flutter        |
-| 🤖 Project Three | AI / Machine Learning     | Python         |
-| ☁️ Project Four  | Cloud Application         | Docker         |
-
----
-
-# 📚 Sedang Dipelajari
-
-* Machine Learning
-* Web Development
-* Rust
-* Artificial Intelligence
-* System Design
+| Project                     | Description                | Tech            |
+| --------------------------- | -------------------------- | --------------- |
+| 🌐 Portfolio Website        | Personal portfolio website | React, Tailwind |
+| 🤖 Machine Learning Project | AI & Prediction Model      | Python          |
+| 📊 Data Analytics Dashboard | Interactive Dashboard      | Python, SQL     |
+| 🛒 Full Stack Web App       | Modern Web Application     | Laravel + React |
 
 ---
 
-# 🎯 Goals 2026
+# 🎯 2026 Goals
 
-* ✅ Berkontribusi ke Open Source
-* 🚀 Membangun SaaS
-* 🌍 Membuat Portfolio Modern
-* 📦 Merilis Project Populer
-* 🎓 Mendalami Cloud Native
+* ✅ Become a Professional Software Engineer
+* 🤖 Master Machine Learning & Deep Learning
+* 📊 Improve Data Analytics Skills
+* 🌍 Contribute to Open Source Projects
+* ☁️ Learn Cloud Computing & DevOps
+* 🚀 Build High-Quality Personal Projects
 
 ---
 
-# 📫 Hubungi Saya
+# 📚 Currently Learning
 
-<p>
+* 🧠 Machine Learning
+* 🤖 Deep Learning
+* 📊 Data Analytics
+* ☁️ Cloud Computing
+* 🏛️ System Design
+* 🗄️ Database Optimization
 
-<a href="https://github.com/<username>">
-<img src="https://skillicons.dev/icons?i=github" height="40"/>
+---
+
+# 🌎 Connect with Me
+
+<p align="left">
+
+<a href="https://github.com/MuhammadAlfaizan">
+<img src="https://skillicons.dev/icons?i=github" height="45"/>
 </a>
 
-<a href="https://linkedin.com/in/<username>">
-<img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+<a href="https://linkedin.com/in/MuhammadAlfaizan">
+<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
 </a>
 
-<a href="mailto:<email>">
-<img src="https://skillicons.dev/icons?i=gmail" height="40"/>
-</a>
-
-<a href="https://<website>">
-<img src="https://skillicons.dev/icons?i=devto" height="40"/>
+<a href="mailto:YOUR_EMAIL">
+<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
 </a>
 
 </p>
+
+---
+
+# 🐍 Contribution Snake
+
+> Aktifkan GitHub Actions agar animasi ini muncul.
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/MuhammadAlfaizan/MuhammadAlfaizan/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
+---
+
+# ☕ Random Dev Quote
+
+<p align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🎵 Spotify (Optional)
+
+Jika menggunakan Spotify, kamu bisa menampilkan lagu yang sedang diputar menggunakan GitHub Actions.
 
 ---
 
 <p align="center">
 
-> *"Code. Learn. Build. Repeat."*
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=180&section=footer"/>
 
 </p>
-
----
 
 <p align="center">
 
-⭐ Terima kasih telah mengunjungi profil saya! Jangan lupa berikan ⭐ jika project saya bermanfaat.
+### ⭐ Thanks for visiting my profile!
+
+*"Keep Learning • Keep Building • Keep Growing"* 🚀
 
 </p>
-
