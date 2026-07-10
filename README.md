@@ -159,7 +159,7 @@ goal:
 
 ---
 
-# 🎵 Spotify (Optional)
+# 🎵 Spotify 
 
 Jika menggunakan Spotify, kamu bisa menampilkan lagu yang sedang diputar menggunakan GitHub Actions.
 
