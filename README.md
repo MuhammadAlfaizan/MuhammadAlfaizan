@@ -143,7 +143,7 @@ goal:
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/MuhammadAlfaizan/MuhammadAlfaizan/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/MuhammadAlfaizan/MuhammadAlfaizan/gh-pages/github-contribution-grid-snake-dark.svg"/>
 
 </p>
 
