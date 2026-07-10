@@ -139,8 +139,6 @@ goal:
 
 # 🐍 Contribution Snake
 
-> Aktifkan GitHub Actions agar animasi ini muncul.
-
 <p align="center">
 
 <img src="https://raw.githubusercontent.com/MuhammadAlfaizan/MuhammadAlfaizan/gh-pages/github-contribution-grid-snake-dark.svg"/>
@@ -160,10 +158,6 @@ goal:
 ---
 
 # 🎵 Spotify 
-
-Jika menggunakan Spotify, kamu bisa menampilkan lagu yang sedang diputar menggunakan GitHub Actions.
-
----
 
 <p align="center">
 
