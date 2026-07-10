@@ -157,8 +157,6 @@ goal:
 
 ---
 
-# 🎵 Spotify 
-
 <p align="center">
 
 ### ⭐ Thanks for visiting my profile!
