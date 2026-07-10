@@ -4,10 +4,6 @@ on:
   schedule:
     - cron: "0 */12 * * *"
 
-  push:
-    branches:
-    - main
-    
   workflow_dispatch:
 
 jobs:
@@ -25,8 +21,10 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - uses: crazy-max/ghaction-github-pages@v4
+      - name: Push snake to output branch
+        uses: crazy-max/ghaction-github-pages@v4
         with:
           build_dir: dist
+          jekyll: false
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
